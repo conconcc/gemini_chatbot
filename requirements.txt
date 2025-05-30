@@ -1,1 +1,2 @@
-
+# Gemini API 키를 아래 줄에 입력하세요
+GEMINI_API_KEY = "AIzaSyCYKBXLUbGs65brmWzMet1nlB76zEvJe88"
